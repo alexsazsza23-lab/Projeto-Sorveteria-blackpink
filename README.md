@@ -1,6 +1,6 @@
 # Projeto-Sorveteria-blackpink
 Site de Sorveteria
-Este projeto foi desenvolvido como parte de um trabalho escolar para praticar desenvolvimento web.
+Este Segundo projeto foi desenvolvido como parte de um trabalho escolar para praticar desenvolvimento web.
 
 Sobre o projeto
 O site simula a página de uma sorveteria, onde o usuário pode visualizar alguns produtos e preencher um formulário para fazer um pedido.
